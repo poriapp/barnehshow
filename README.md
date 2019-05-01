@@ -1,2 +1,2 @@
 # barnehshow
-com.poriapp.barnehshow
+com.poriapp.barndehshow
