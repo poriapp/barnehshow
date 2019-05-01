@@ -1,0 +1,2 @@
+# barnehshow
+com.poriapp.barnehshow
